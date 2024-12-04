@@ -4,3 +4,5 @@ And this is second branch
 And this is second branch again
 
 test from secondBranch
+
+test from secondBranch for rebase
