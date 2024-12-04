@@ -1,6 +1,6 @@
 hello wolrd!!!
 It's a new branch
-And this is second branch
+And this is for newBranch for conflict
 And this is second branch again
 
 test from secondBranch
